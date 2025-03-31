@@ -1,0 +1,10 @@
+---
+title: "CV"
+---
+
+You can download my most recent CV here:
+
+[📄 Download CV](https://jihyeonbae.github.io/cv.pdf)
+
+<iframe src="https://jihyeonbae.github.io/cv.pdf" width="100%" height="800px">
+</iframe>

@@ -1,0 +1,8 @@
+---
+title: "Software"
+---
+
+I was fortunate to be part of a fantastic team for the ''Data Science for Social Good'' program in summer 2024.
+We developed an R package [GeoNdxR](https://github.com/uwescience/WaterReuseDSSG2024) that allows R users to build user-interactive website ([water reuse index](https://chayek.github.io/Water-Reuse-Drivers-Index/) as an example)for index creation using their own geospatial data of interest, without any designated server. 
+
+![Team Pic](/images/dssg.PNG)

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my most recent CV here:\n📄 Download CV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Peer-viewed articles\nBae, Jihyeon and Don Moon. “Regime Type of an Intergovernmental Organization Membership and Dispute Settlement Mechanisms” at British Journal of Politics and International Relations 2025.\nBae, Jihyeon. “Chinese Patronage and Southeast Asian Democracy in Distress” at Asia-Pacific Social Science Review Vol. 22, Issue. 4, 2022.\nBae, Jihyeon. “Passing the Buck to the Local Level: How Authoritarian China Survives” at Seoul National University Journal of International Studies Vol. 3, Issue. 1, 2018.\n\n\nWorking Paper\n(Under Review)Bae, Jihyeon. [“Authoritarian International Organization and Constitutional Flexibility”] Presented at ISA 2024, APSA 2024\nBae, Jihyeon and Federico Salvati. [“Liberalism Discourse and Regime Type”]\nBae, Jihyeon. [“Does Authoritarian International Law Shape Public Preferences?”] Presented at ISA 2025\nBae, Jihyeon. [“Regime Type and Invocation of International Legal Principle”] Presented at ISA 2025\nBae, Jihyeon and Valentina Staneva. [“Linguistic Styles as Predictors of Regime Types”]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jihyeon Bae",
+    "section": "",
+    "text": "Welcome! I am Jihyeon Bae, Ph.D. Candidate in the Department of Political Science at the University of Washington (UW). My dissertation examines international law and organizations used by authoritarian state leaders.\n\n\n\nProfile"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "I was fortunate to be part of a fantastic team for the ‘’Data Science for Social Good’’ program in summer 2024. We developed an R package GeoNdxR that allows R users to build user-interactive website (water reuse index as an example)for index creation using their own geospatial data of interest, without any designated server.\n\n\n\nTeam Pic"
+  }
+]
