@@ -4,7 +4,7 @@ title: "CV"
 
 You can download my most recent CV here:
 
-[📄 Download CV](https://jihyeonbae.github.io/cv.pdf)
+[📄 Download CV](https://jihyeonbae.github.io/CV-25.pdf)
 
-<iframe src="https://jihyeonbae.github.io/cv.pdf" width="100%" height="800px">
+<iframe src="https://jihyeonbae.github.io/CV-25.pdf" width="100%" height="800px">
 </iframe>
