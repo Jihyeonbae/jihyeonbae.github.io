@@ -3,20 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "Jihyeon Bae"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - href: cv.qmd
-        text: CV
-      - href: teaching.qmd
-        text: Teaching
-      - href: software.qmd
-        text: Software
-
+      - text: Home
+        href: index.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Software
+        href: software.qmd
 
 format:
   html:
