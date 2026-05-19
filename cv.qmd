@@ -4,8 +4,8 @@ title: "CV"
 
 You can download my most recent CV here:
 
-[📄 Download CV](/CV_Aug2025.pdf)
+[📄 Download CV](/CV_April2026.pdf)
 
 
-<iframe src="/CV_Aug2025.pdf" width="100%" height="800px">
+<iframe src="/CV_Research2026-27.pdf" width="100%" height="800px">
 </iframe>

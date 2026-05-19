@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - CV_Aug2025.pdf
+    - CV_Research2026-27.pdf
 
 website:
   navbar:
