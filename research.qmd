@@ -4,25 +4,28 @@ title: "Research"
 
 ### Peer-viewed articles
 
-Bae, Jihyeon and Don Moon. ["Regime-type composition of an intergovernmental organisation and dispute settlement mechanisms"](https://doi.org/10.1177/13691481251329774) at
-*British Journal of Politics and International Relations* Vol. 28, Issue. 1, 2025.
+Bae, Jihyeon and Federico Salvati. 2026. [``United Nations Discourse on Liberalism Across Regime Types''](https://doi.org/10.1093/isagsq/ksag001) at *Global Studies Quarterly* Vol. 6, No. 1.
 
-Bae, Jihyeon. ["Chinese Patronage and Southeast Asian Democracy in Distress"](https://animorepository.dlsu.edu.ph/cgi/viewcontent.cgi?article=1471&context=apssr) at *Asia-Pacific Social Science Review* Vol. 22, Issue. 4, 2022.
+Bae, Jihyeon and Don Moon. 2025. ["Regime-type composition of an intergovernmental organisation and dispute settlement mechanisms"](https://doi.org/10.1177/13691481251329774) at
+*British Journal of Politics and International Relations* Vol. 28, Issue. 1.
 
-Bae, Jihyeon. ["Passing the Buck to the Local Level: How Authoritarian China Survives"](https://d1wqtxts1xzle7.cloudfront.net/58063962/4.5_Bae_1-libre.pdf?1545814746=&response-content-disposition=inline%3B+filename%3DPassing_the_Buck_to_the_Local_Level_How.pdf&Expires=1743444209&Signature=a7doRaEpjFJilWZCy-BpzIgW3ovZ3XxohvAjwMm~RXwUxsRDYTx~MxQ9-btNzkFn3xZ1uxqvILxqFcAB3ZPU8m8tIw-5uXlP4OcVttFk8KjJS0M2kpAf4ZJwASjSwkD28SMvuItNMxr6NCPRjiywVyiPW~-AxU63ZFwqGIei~jCtEDdvi8uIHyjdjnycJ6tdA7aGRtAEIAXNqTGQN9y8ZtT9I7WCrITTYbj3Dbg5JkFz9eT2VPZMoqDvpkMmRcQPcQ7mtTJGrir3EI7YqGV1bu5oU~De8w6kjQmCI8uduJ16dj0~YV9geQeL0HF9IadCasdsUvFyRo48ZB1QlnMB7g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) at *Seoul National University Journal of International Studies* Vol. 3, Issue. 1, 2018.
+Bae, Jihyeon. 2022. ["Chinese Patronage and Southeast Asian Democracy in Distress"](https://animorepository.dlsu.edu.ph/cgi/viewcontent.cgi?article=1471&context=apssr) at *Asia-Pacific Social Science Review* Vol. 22, Issue. 4.
+
 
 ### Working Paper
 
-(Invited for Revise & Resubmit) Bae, Jihyeon. ["Authoritarian International Organization and Constitutional Flexibility"] 
+(Invited for Revise & Resubmit at Global Governance) Bae, Jihyeon. ["Authoritarian International Organization and Constitutional Flexibility"] 
 *Presented at ISA 2024, APSA 2024* 
 
-(Under Review) Bae, Jihyeon and Federico Salvati. ["Liberalism Discourse and Regime Type"]
+(Invited for Revise & Resubmit at the Review of International Organizations) Bae, Jihyeon and Federico Salvati. ["Subversion Without Exit: Autocratic Contestation of Liberalism at the United Nations"]
+
+(Under Review) Bae, Jihyeon. ["Content or Cue? Conditional Messenger Effects of International Law"] *Presented at ISA 2025*
+
+(Under Review) Bae, Jihyeon. ["Domestic Sources of International Legal Rhetoric: Contesting Sovereignty across Regimes"] *Presented at ISA 2025* 
+
+### In Progress
 
 Bae, Jihyeon and Curtis Atkisson. ["Varieties of Inter-governmental Organizations and Regime Types"] *Presented at [Data Science Seminar](https://www.youtube.com/watch?v=K0KlXZxyu34&t=956s) 2025*
-
-Bae, Jihyeon. ["Does Authoritarian International Law Shape Public Preferences?"] *Presented at ISA 2025*
-
-Bae, Jihyeon. ["Regime Type and Invocation of International Legal Principle"] *Presented at ISA 2025* 
 
 Bae, Jihyeon and Valentina Staneva. ["Linguistic Styles as Predictors of Regime Types"]
 
