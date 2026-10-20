@@ -119,8 +119,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#peer-viewed-articles" id="toc-peer-viewed-articles" class="nav-link active" data-scroll-target="#peer-viewed-articles">Peer-viewed articles</a></li>
-  <li><a href="#working-paper" id="toc-working-paper" class="nav-link" data-scroll-target="#working-paper">Working Paper</a></li>
+  <li><a href="#peer-reviewed-articles" id="toc-peer-reviewed-articles" class="nav-link active" data-scroll-target="#peer-reviewed-articles">Peer-reviewed articles</a></li>
+  <li><a href="#working-papers" id="toc-working-papers" class="nav-link" data-scroll-target="#working-papers">Working Papers</a></li>
   <li><a href="#in-progress" id="toc-in-progress" class="nav-link" data-scroll-target="#in-progress">In Progress</a></li>
   </ul>
 </nav>
@@ -147,22 +147,27 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="peer-viewed-articles" class="level3">
-<h3 class="anchored" data-anchor-id="peer-viewed-articles">Peer-viewed articles</h3>
-<p>Bae, Jihyeon and Federico Salvati. 2026. <em>Global Studies Quarterly</em>, <a href="https://doi.org/10.1093/isagsq/ksag001">``United Nations Discourse on Liberalism Across Regime Types’’</a>, Vol. 6, No.&nbsp;1.</p>
-<p>Bae, Jihyeon and Don Moon. 2025. <em>British Journal of Politics and International Relations</em>, <a href="https://doi.org/10.1177/13691481251329774">“Regime-type composition of an intergovernmental organisation and dispute settlement mechanisms”</a>, Vol. 28, Issue. 1.</p>
+<section id="peer-reviewed-articles" class="level3">
+<h3 class="anchored" data-anchor-id="peer-reviewed-articles">Peer-reviewed articles</h3>
+<p>Bae, Jihyeon and Federico Salvati. 2026. <a href="https://doi.org/10.1093/isagsq/ksag001">“United Nations Discourse on Liberalism Across Regime Types”</a>, <em>Global Studies Quarterly</em>, Vol. 6, No.&nbsp;1.</p>
+<p>Bae, Jihyeon and Don Moon. 2026. <a href="https://doi.org/10.1177/13691481251329774">“Regime-type composition of an intergovernmental organisation and dispute settlement mechanisms”</a>, <em>British Journal of Politics and International Relations</em>, Vol. 28, No.&nbsp;1.</p>
 </section>
-<section id="working-paper" class="level3">
-<h3 class="anchored" data-anchor-id="working-paper">Working Paper</h3>
-<p>(Revise &amp; Resubmitted at <em>Global Governance</em>) Bae, Jihyeon. [“Authoritarian International Organization and Constitutional Flexibility”]</p>
-<p>(Revise &amp; Resubmit at <em>the Review of International Organizations</em>) Salvati, Federico and Jihyeon, Bae. “Subversion Without Exit: Autocratic Contestation of Liberalism at the United Nations”</p>
-<p>(Under Review) Bae, Jihyeon. “Content or Cue? Conditional Messenger Effects of International Law”</p>
-<p>(Under Review) Bae, Jihyeon. “Domestic Sources of International Legal Rhetoric: Contesting Sovereignty across Regimes”</p>
+<section id="working-papers" class="level3">
+<h3 class="anchored" data-anchor-id="working-papers">Working Papers</h3>
+<p>(Revise &amp; Resubmit at <em>International Studies Quarterly</em>) Bae, Jihyeon. “Content or Cue? Conditional Messenger Effects of International Law”</p>
+<p>(Revise &amp; Resubmit at <em>Global Governance</em>) Bae, Jihyeon. “Authoritarian International Organization and Amendment Flexibility”</p>
+<p>(Revise &amp; Resubmit at <em>The Review of International Organizations</em>) Bae, Jihyeon and Federico Salvati. “Subversion Without Exit: Autocratic Contestation of Liberalism at the United Nations”</p>
+<p>(Under Review) Bae, Jihyeon. “The Domestic Sources of International Legal Rhetoric: Contesting Sovereignty Across Regimes”</p>
+<ul>
+<li>Winner, 2025 Stuart Scheingold Prize for Best Graduate Paper in Public Law, University of Washington</li>
+<li>Presented at the Niehaus Center International Relations Faculty Colloquium, Princeton University</li>
+</ul>
 </section>
 <section id="in-progress" class="level3">
 <h3 class="anchored" data-anchor-id="in-progress">In Progress</h3>
-<p>Bae, Jihyeon and Curtis Atkisson. [“Varieties of Inter-governmental Organizations and Regime Types”] \ <em>Presented at <a href="https://www.youtube.com/watch?v=K0KlXZxyu34&amp;t=956s">Data Science Seminar</a> 2025</em></p>
-<p>Bae, Jihyeon and Valentina Staneva. [“Linguistic Styles as Predictors of Regime Types”]</p>
+<p>Bae, Jihyeon and Curtis Atkisson. “Varieties of Intergovernmental Organization: Measuring Member-State Distributions”<br>
+<em>Presented at the <a href="https://www.youtube.com/watch?v=K0KlXZxyu34&amp;t=956s">Data Science Seminar</a>, 2025</em></p>
+<p>Bae, Jihyeon and Valentina</p>
 
 
 </section>
@@ -258,7 +263,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/Jihyeonbae\.github\.io\/jihyeonbae\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
