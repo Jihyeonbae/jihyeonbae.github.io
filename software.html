@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Software</title>
+<title>Software and Data – Jihyeon Bae</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -38,7 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e797275a6a2334003e2160755934a82c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -77,6 +77,11 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Jihyeon Bae</span>
+    </a>
+  </div>
             <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
@@ -101,7 +106,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./software.html" aria-current="page"> 
-<span class="menu-text">Software</span></a>
+<span class="menu-text">Software &amp; Data</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -114,15 +119,21 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#measurement-varieties-of-intergovernmental-organization" id="toc-measurement-varieties-of-intergovernmental-organization" class="nav-link active" data-scroll-target="#measurement-varieties-of-intergovernmental-organization">Measurement: Varieties of Intergovernmental Organization</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Software</h1>
+<h1 class="title">Software and Data</h1>
 </div>
 
 
@@ -139,15 +150,21 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I was part of a fantastic team for the ‘’Data Science for Social Good’’ program in summer 2024. We developed an R package <a href="https://github.com/uwescience/WaterReuseDSSG2024">GeoNdxR</a> that allows R users to build user-interactive website (<a href="https://chayek.github.io/Water-Reuse-Drivers-Index/">water reuse index</a> as an example)for index creation using their own geospatial data of interest, without any designated server.</p>
+<p><strong><a href="https://github.com/uwescience/WaterReuseDSSG2024">GeoNdxR</a></strong> is an R package that lets users build an interactive index website from their own geospatial data, with no server required. A live example is the <a href="https://chayek.github.io/Water-Reuse-Drivers-Index/">water reuse index</a>. I developed the package with a team in the University of Washington’s Data Science for Social Good program (summer 2024).</p>
+<section id="measurement-varieties-of-intergovernmental-organization" class="level2">
+<h2 class="anchored" data-anchor-id="measurement-varieties-of-intergovernmental-organization">Measurement: Varieties of Intergovernmental Organization</h2>
+<p><em>With Curtis Atkisson. Work in progress. Data available upon request.</em></p>
+<p>Studies of intergovernmental organizations (IGOs) usually describe an organization by the average democracy score of its members. That average cannot tell a uniformly hybrid IGO from one split between autocracies and democracies, and it is unstable when membership is small. We model member-state democracy scores (V-Dem polyarchy) as Beta-distributed and estimate the distribution’s shape in a Bayesian framework for each IGO–year. The result is a probability that each organization is unimodal, U-shaped (polarized), democracy-skewed, or autocracy-skewed, rather than a single hard label.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="./images/dssg.PNG" class="img-fluid figure-img"></p>
-<figcaption>Team Pic</figcaption>
+<p><img src="images/igo_shape_location_facet_final.png" class="img-fluid figure-img" style="width:80.0%"></p>
+<figcaption>Distribution of member-state regime types across selected intergovernmental organizations</figcaption>
 </figure>
 </div>
+<p>A talk on the project is available <a href="https://www.youtube.com/watch?v=K0KlXZxyu34&amp;t=956s">here</a>.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
