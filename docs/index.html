@@ -142,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Welcome! I am Jihyeon Bae, a Postdoctoral Research Fellow at the Niehaus Center for Globalization and Governance at Princeton University. I received my Ph.D.&nbsp;in Political Science from the University of Washington in June 2026. My research examines authoritarian global governance; how autocrats use international law and build international organizations, and whether their rhetoric persuades the public. I draw on text analysis, Bayesian measurement, and survey experiments. I earned my B.A. in International Studies from Kyung Hee University, South Korea, in 2019.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="./images/portrait1.PNG" class="img-fluid figure-img"></p>
+<p><img src="images/portrait1.jpg" class="img-fluid figure-img"></p>
 <figcaption>Profile</figcaption>
 </figure>
 </div>
@@ -240,7 +240,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/Jihyeonbae\.github\.io\/jihyeonbae\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

@@ -4,4 +4,4 @@ title: "Jihyeon Bae"
 
 Welcome! I am Jihyeon Bae, a Postdoctoral Research Fellow at the Niehaus Center for Globalization and Governance at Princeton University. I received my Ph.D. in Political Science from the University of Washington in June 2026. My research examines authoritarian global governance; how autocrats use international law and build international organizations, and whether their rhetoric persuades the public. I draw on text analysis, Bayesian measurement, and survey experiments. I earned my B.A. in International Studies from Kyung Hee University, South Korea, in 2019.
 
-![Profile](/images/portrait1.PNG)
+![Profile](images/portrait1.jpg)
