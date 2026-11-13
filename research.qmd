@@ -2,28 +2,52 @@
 title: "Research"
 ---
 
-### Peer-reviewed articles
+## Peer-reviewed articles
 
-Bae, Jihyeon and Federico Salvati. 2026. [“United Nations Discourse on Liberalism Across Regime Types”](https://doi.org/10.1093/isagsq/ksag001), *Global Studies Quarterly*, Vol. 6, No. 1.
+::: {.paper}
+**United Nations Discourse on Liberalism Across Regime Types**  
+with Federico Salvati · *Global Studies Quarterly* 6(1), 2026 · [DOI](https://doi.org/10.1093/isagsq/ksag001)
+:::
 
-Bae, Jihyeon and Don Moon. 2026. [“Regime-type composition of an intergovernmental organisation and dispute settlement mechanisms”](https://doi.org/10.1177/13691481251329774), *British Journal of Politics and International Relations*, Vol. 28, No. 1.
+::: {.paper}
+**Regime-type composition of an intergovernmental organisation and dispute settlement mechanisms**  
+with Don Moon · *British Journal of Politics and International Relations* 28(1), 2026 · [DOI](https://doi.org/10.1177/13691481251329774)
+:::
 
-### Working Papers
+## Working papers
 
-(Revise & Resubmit at *International Studies Quarterly*) Bae, Jihyeon. "Content or Cue? Conditional Messenger Effects of International Law"
+::: {.paper}
+**Content or Cue? Conditional Messenger Effects of International Law**  
+[Revise & Resubmit]{.status} *International Studies Quarterly*
+:::
 
-(Revise & Resubmit at *Global Governance*) Bae, Jihyeon. "Authoritarian International Organization and Amendment Flexibility"
+::: {.paper}
+**Authoritarian International Organization and Amendment Flexibility**  
+[Revise & Resubmit]{.status} *Global Governance*
+:::
 
-(Revise & Resubmit at *The Review of International Organizations*) Bae, Jihyeon and Federico Salvati. "Subversion Without Exit: Autocratic Contestation of Liberalism at the United Nations"
+::: {.paper}
+**Subversion Without Exit: Autocratic Contestation of Liberalism at the United Nations**  
+with Federico Salvati · [Revise & Resubmit]{.status} *The Review of International Organizations*
+:::
 
-(Under Review) Bae, Jihyeon. "The Domestic Sources of International Legal Rhetoric: Contesting Sovereignty Across Regimes"
+::: {.paper}
+**The Domestic Sources of International Legal Rhetoric: Contesting Sovereignty Across Regimes**  
+[Under Review]{.status}  
+[Winner, [2025 Stuart Scheingold Prize for Outstanding Paper in Public Law, University of Washington](https://www.polisci.washington.edu/news/2025/11/24/jihyeon-bae-wins-prestigious-scheingold-prize)]{.note}  
+[Presented at the Niehaus Center International Relations Faculty Colloquium, Princeton University]{.note}
+:::
 
-- Winner, 2025 Stuart Scheingold Prize for Best Graduate Paper in Public Law, University of Washington
-- Presented at the Niehaus Center International Relations Faculty Colloquium, Princeton University
+## In progress
 
-### In Progress
+::: {.paper}
+**Varieties of Intergovernmental Organization: Measuring Member-State Distributions**  
+with Curtis Atkisson  
+[Presented at the [Data Science Seminar](https://www.youtube.com/watch?v=K0KlXZxyu34&t=956s), 2025]{.note}
+:::
 
-Bae, Jihyeon and Curtis Atkisson. "Varieties of Intergovernmental Organization: Measuring Member-State Distributions"  
-*Presented at the [Data Science Seminar](https://www.youtube.com/watch?v=K0KlXZxyu34&t=956s), 2025*
-
-Bae, Jihyeon and Valentina
+::: {.paper}
+**What Do the Leaders Say? Using Linguistic Styles as Regime Type Predictors**  
+with Valentina Staneva  
+[Presented at the [Data Science Seminar](https://www.youtube.com/watch?v=uX4RrFtgLCU), 2024]{.note}
+:::

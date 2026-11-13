@@ -2,10 +2,12 @@ project:
   type: website
   output-dir: docs
   resources:
-    - CV_Research2026-27.pdf
+    - CV_Jihyeonbae_Oct2026.pdf
 
 website:
+  title: "Jihyeon Bae"
   navbar:
+    background: "#1d3557"
     left:
       - text: Home
         href: index.qmd
@@ -15,7 +17,7 @@ website:
         href: research.qmd
       - text: Teaching
         href: teaching.qmd
-      - text: Software
+      - text: Software & Data
         href: software.qmd
 
 format:
