@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Jihyeon Bae",
     "section": "",
-    "text": "Welcome! I am a Postdoctoral Research Fellow at the Niehaus Center for Globalization and Governance at Princeton University. I received my Ph.D. in Political Science from the University of Washington in June 2026.\nI study authoritarian global governance: how autocrats use international law, how they build international organizations, and whether their rhetoric persuades the public. My work combines text analysis, Bayesian measurement of international organizations, and survey experiments. My book project, Sovereignty as Shield: How Authoritarian States Use International Law, draws on in-depth studies of China and Southeast Asia.\nI earned my B.A. in International Studies from Kyung Hee University, South Korea, in 2020.\nEmail: jihyeonb@princeton.edu | My first name is pronounced “JEE-hee-on”\n\n\n\nProfile"
+    "text": "Welcome! I am a Postdoctoral Research Fellow at the Niehaus Center for Globalization and Governance at Princeton University. I received my Ph.D. in Political Science from the University of Washington in June 2026.\nI study authoritarian global governance: how autocrats use international law, how they build international organizations, and whether their rhetoric persuades the public. My work combines text analysis, Bayesian measurement of international organizations, and survey experiments. My book project, Sovereignty as Shield: How Authoritarian States Use International Law, draws on in-depth studies of China and Southeast Asia.\nI earned my B.A. in International Studies from Kyung Hee University, South Korea, in 2019.\nEmail: jihyeonb@princeton.edu | My first name is pronounced “JEE-hee-on”\n\n\n\nProfile"
   },
   {
     "objectID": "teaching.html",
@@ -65,15 +65,22 @@
   {
     "objectID": "software.html",
     "href": "software.html",
-    "title": "Software and Data",
+    "title": "Software & Data",
     "section": "",
     "text": "GeoNdxR is an R package that lets users build an interactive index website from their own geospatial data, with no server required. A live example is the water reuse index. I developed the package with a team in the University of Washington’s Data Science for Social Good program (summer 2024)."
   },
   {
-    "objectID": "software.html#measurement-varieties-of-intergovernmental-organization",
-    "href": "software.html#measurement-varieties-of-intergovernmental-organization",
-    "title": "Software and Data",
-    "section": "Measurement: Varieties of Intergovernmental Organization",
-    "text": "Measurement: Varieties of Intergovernmental Organization\nWith Curtis Atkisson. Work in progress. Data available upon request.\nStudies of intergovernmental organizations (IGOs) usually describe an organization by the average democracy score of its members. That average cannot tell a uniformly hybrid IGO from one split between autocracies and democracies, and it is unstable when membership is small. We model member-state democracy scores (V-Dem polyarchy) as Beta-distributed and estimate the distribution’s shape in a Bayesian framework for each IGO–year. The result is a probability that each organization is unimodal, U-shaped (polarized), democracy-skewed, or autocracy-skewed, rather than a single hard label.\n\n\n\nDistribution of member-state regime types across selected intergovernmental organizations\n\n\nA talk on the project is available here."
+    "objectID": "software.html#software",
+    "href": "software.html#software",
+    "title": "Software & Data",
+    "section": "",
+    "text": "GeoNdxR is an R package that lets users build an interactive index website from their own geospatial data, with no server required. A live example is the water reuse index. I developed the package with a team in the University of Washington’s Data Science for Social Good program (summer 2024)."
+  },
+  {
+    "objectID": "software.html#measurement",
+    "href": "software.html#measurement",
+    "title": "Software & Data",
+    "section": "Measurement",
+    "text": "Measurement\nVarieties of Intergovernmental Organization\nWith Curtis Atkisson. Work in progress. Data available upon request.\nStudies of intergovernmental organizations (IGOs) usually describe an organization by the average democracy score of its members. That average cannot tell a uniformly hybrid IGO from one split between autocracies and democracies, and it is unstable when membership is small. We model member-state democracy scores (V-Dem polyarchy) as Beta-distributed and estimate the distribution’s shape in a Bayesian framework for each IGO–year. The result is a probability that each organization is unimodal, U-shaped (polarized), democracy-skewed, or autocracy-skewed, rather than a single hard label.\n\n\n\nDistribution of member-state regime types across selected intergovernmental organizations\n\n\nA recording of the talk is available."
   }
 ]
