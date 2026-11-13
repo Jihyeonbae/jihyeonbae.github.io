@@ -20,8 +20,7 @@ title: "Teaching"
 
 ### Volunteer 
 
-- **Data Carpentry workshop** (1 week), University of Washington eScience Institute. [Helper] [2025]{.term}
-
+- **Data Carpentry workshop**, University of Washington eScience Institute (helper, 1 week) [2025]{.term}
 
 ## Kyung Hee University
 
